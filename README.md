@@ -73,11 +73,29 @@ Download and Execute:
 
 Download the ladder logic program to the PLC if available and run it.
 Test the timers with the physical push buttons and observe the LEDs or other output devices.
-# Expected Outputs:
+#   Outputs:
 ON-Delay Timer: The output LED or indicator should turn on after a specified delay (e.g., 5 seconds) once the input is activated.
 OFF-Delay Timer: The output should remain on for the specified delay after the input is deactivated, and then it should turn off.
 Retentive Timer: The output should turn on after the accumulated time reaches the preset value, and it should retain the accumulated time even if the input is turned off.
-Results:
+
+
+# Simulation Screenshots 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
 The observed outputs matched the expected behavior of each type of timer, demonstrating the correct functioning of timer operations in PLC ladder logic.
 The experiment confirms the practical application of timers in controlling process sequences and managing time-dependent operations in industrial automation.
