@@ -19,7 +19,8 @@ Output Devices - LEDs or any other indicators to visualize the timer output.
 Wires and Connectors - For interfacing input/output devices with the PLC.
 Power Supply - Appropriate power supply for the PLC and peripherals.
 # Theory:
-Timers in PLCs are used to introduce delays in control processes. They are fundamental in operations where the timing of events is crucial, such as starting a motor after a delay, turning off a light after a specified time, or maintaining a state for a fixed duration.
+Timers in PLCs are used to introduce delays in control processes. They are fundamental in operations where the timing of events is crucial, 
+such as starting a motor after a delay, turning off a light after a specified time, or maintaining a state for a fixed duration.
 
 # Types of Timers:
  1. ON-Delay Timer (TON)
